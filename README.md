@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=22&duration=3500&pause=3000&color=55FFB9&background=33FF7500&vCenter=true&width=435&height=30&lines=Hi+there!+Mr.SAS+here...)](https://git.io/typing-svg)
 
-- 👋🏼 Hi, I'm a programmer
+- 👋🏼 I'm a programmer
 - 🏫 I’m currently studying Computer Science at University of Parma
 - 💻 I’m interested in web scraping, AI and automation
-- 📽️ I love movies and TV series
+- 📽️ I love movies and TV shows
 - 📫 Contacts: look at the email in my bio
 
 <h4 align="left">🧑🏼‍💻 Languages I know:</h4>
